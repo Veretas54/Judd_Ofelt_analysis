@@ -31,11 +31,11 @@ jupyter nbclassic
 ---
 ## Описание блокнотов
 
-Judd_Ofeld_Base.ipynb — основной блокнот, содержит все необходимые классы и функции.
-Carnal_U_data_prepare_example.ipynb — пример подготовки матричных элементов U из литературных данных (doi: 10.1063/1.1669893).
-J_O_calculation_example.ipynb — полный расчёт сил осцилляторов и параметров Джадда-Офельта.
-J_O_stability_estimation_example.ipynb — оценка стабильности полученных параметров Ω (bootstrap + LOO).
-RadiativeTransitionCalculator_example.ipynb — расчёт радиационных характеристик (A, τ, β).
+- Judd_Ofeld_Base.ipynb — основной блокнот, содержит все необходимые классы и функции.
+- Carnal_U_data_prepare_example.ipynb — пример подготовки матричных элементов U из литературных данных (doi: 10.1063/1.1669893).
+- J_O_calculation_example.ipynb — полный расчёт сил осцилляторов и параметров Джадда-Офельта.
+- J_O_stability_estimation_example.ipynb — оценка стабильности полученных параметров Ω (bootstrap + LOO).
+- RadiativeTransitionCalculator_example.ipynb — расчёт радиационных характеристик (A, τ, β).
 
 ---
 
